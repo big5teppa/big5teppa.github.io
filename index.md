@@ -8,9 +8,14 @@ My GitHub page is http://github.com/big5teppa.
 
 ### CPSC 120
 
-* Lab 7
+* Lab 12
 
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+    Lab 12, part 2 a favorite because I was having fun with it and was able to create gifs. I was able to create images and work color for the first time by using prngs, making a glittery effect and have a message displayed. 
+
+* lab 9
+
+    Lab 9, part 2 was a favorite because I was able to obtain an understanding on how files worked and the role they play. I was able to create a guessing game that completely hides the number from player two by storing the number in a file.
+
+* lab 1
+
+    Lab 1 was my favorite because I was able to write code for the very first time. In the lab, I learned to print out statements and retrieve input using std::cout and std::in. 
